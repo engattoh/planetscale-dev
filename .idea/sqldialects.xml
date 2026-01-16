@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/dating.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/examples/bitwise.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/examples/md5.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/examples/md5_more.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/examples/summary.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/examples/timestamps.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/generated_columns.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/indexing/fulltext_indexes.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/indexing/functionaL_indexes.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/indexing/invisible_indexes.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/indexing/json_indexing.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/indexing/primary_keys.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/indexing/where_to_put_indexes.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/jsoning.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/part 3/couting.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/part 3/cte.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/part 3/joining.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/part 3/limiting_rows.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/part 3/obsfucation.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/part 3/recursive_cte.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/part 3/redundant_condition.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/part 3/subquery.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/part 3/windows.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/queries/explain_1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/site_health.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/strings.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/unexpected.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
